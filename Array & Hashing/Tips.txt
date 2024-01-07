@@ -1,0 +1,5 @@
+1. Use sets to easily check availability
+2. Sort if applicable
+3. [0] * 26 for tracking chars
+4. array[i - 'a']
+5. Use temp array

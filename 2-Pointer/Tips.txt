@@ -1,0 +1,2 @@
+1. Usually set at start & end
+2. What are the conditions to move the pointer? Which ppointer do we move?
