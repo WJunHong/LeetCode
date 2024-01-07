@@ -1,0 +1,5 @@
+1. l <= r : left = mid + 1, right = mid - 1
+2. l < r: left = mid + 1, right = mid
+3. BS over elements vs. values
+4. What is the target? Are there multiple targets?
+5. For 2D, how to quickly calculate the middle element?
