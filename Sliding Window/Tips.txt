@@ -1,0 +1,4 @@
+1. SW questions usually involve growing of window || -> |      |
+2. Keeping track of collective info within the window
+3. When should you move the window? How to move the window?
+4. How to "ignore" elements outside the window?
