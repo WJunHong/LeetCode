@@ -1,0 +1,2 @@
+1. Python: [] with pop() and append()
+2. Java: Stack<T> with pop(), push(), peek()
