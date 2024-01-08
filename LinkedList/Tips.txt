@@ -1,0 +1,5 @@
+1. Use dummy start/end node
+2. Hare-tortoise algo
+3. Fixed distance move together slow-fast pointer
+4. Recursion with global variable
+5. Insertion/deletion on original LL
